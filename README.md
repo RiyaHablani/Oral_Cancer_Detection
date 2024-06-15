@@ -46,4 +46,4 @@ If you encounter any issues or have suggestions, please open an issue on the Git
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE.md).
