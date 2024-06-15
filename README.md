@@ -46,4 +46,4 @@ If you encounter any issues or have suggestions, please open an issue on the Git
 
 ## License
 
-This project is licensed under the [MIT License](file:///C:/Users/DELL/Desktop/Oral_Cancer_Detection/Oral_Cancer_Detection/LICENSE).
+This project is licensed under the [MIT License](https://github.com/RiyaHablani/Oral_Cancer_Detection/blob/master/LICENSE).
