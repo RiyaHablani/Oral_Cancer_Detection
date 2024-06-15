@@ -2,11 +2,11 @@
 
 ## Introduction
 
-In contemporary healthcare, early detection of oral cancer is critical for improving patient outcomes and treatment efficacy. This project leverages machine learning methodologies to predict oral cancer at its early stages using medical images and risk factor data.
+In contemporary healthcare, early detection of oral cancer is critical for improving patient outcomes and treatment efficacy. This project leverages machine learning methodologies to predict oral cancer at its early stages using medical images.
 
 ## Rationale
 
-Early detection enables timely medical interventions, significantly enhancing the chances of successful treatment and recovery. By employing advanced computational techniques, this project aims to develop a predictive model capable of analyzing medical images and risk factors to identify potential cases of oral cancer.
+Early detection enables timely medical interventions, significantly enhancing the chances of successful treatment and recovery. By employing advanced computational techniques, this project aims to develop a predictive model capable of analyzing medical images to identify potential cases of oral cancer.
 
 ## Objectives
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The dataset used for training and testing the models is available in the **/Dataset** directory. This dataset contains images and risk factor data specific to oral cancer.
+The dataset used for training and testing the models is available in the /Dataset directory.The dataset is obtained from kaggle.
 
 ## Contributing
 
