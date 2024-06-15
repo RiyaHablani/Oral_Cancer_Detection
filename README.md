@@ -11,7 +11,7 @@ Early detection enables timely medical interventions, significantly enhancing th
 ## Objectives
 
 * Develop and fine-tune machine learning models specifically for early detection of oral cancer.
-* Utilize comprehensive datasets containing oral cancer images and associated risk factor data for model training and validation.
+* Utilize comprehensive datasets containing oral cancer images data for model training and validation.
 * Evaluate model performance using metrics such as accuracy, sensitivity, and specificity.
 * Lay the groundwork for integrating predictive models into clinical practice, enhancing diagnostic capabilities in oral cancer detection.
 
